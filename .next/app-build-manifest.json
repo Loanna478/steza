@@ -1,0 +1,62 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-bbf38ab73833ad8f.js",
+      "static/chunks/fd9d1056-7e3ed040e4ba57fc.js",
+      "static/chunks/23-2ee2816a45bb4507.js",
+      "static/chunks/main-app-e84bd76ebf7b8fbe.js",
+      "static/chunks/app/_not-found/page-3232edcc42d2bd80.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-bbf38ab73833ad8f.js",
+      "static/chunks/fd9d1056-7e3ed040e4ba57fc.js",
+      "static/chunks/23-2ee2816a45bb4507.js",
+      "static/chunks/main-app-e84bd76ebf7b8fbe.js",
+      "static/css/4bff8b468af3fb31.css",
+      "static/chunks/app/layout-c4a217245741aae7.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-bbf38ab73833ad8f.js",
+      "static/chunks/fd9d1056-7e3ed040e4ba57fc.js",
+      "static/chunks/23-2ee2816a45bb4507.js",
+      "static/chunks/main-app-e84bd76ebf7b8fbe.js",
+      "static/chunks/138-02aacf01e46614a3.js",
+      "static/chunks/648-590550bcf87a6894.js",
+      "static/chunks/app/page-cf894e3108e05f74.js"
+    ],
+    "/pages/films/page": [
+      "static/chunks/webpack-bbf38ab73833ad8f.js",
+      "static/chunks/fd9d1056-7e3ed040e4ba57fc.js",
+      "static/chunks/23-2ee2816a45bb4507.js",
+      "static/chunks/main-app-e84bd76ebf7b8fbe.js",
+      "static/chunks/138-02aacf01e46614a3.js",
+      "static/chunks/648-590550bcf87a6894.js",
+      "static/chunks/app/pages/films/page-366b184af4261df5.js"
+    ],
+    "/pages/series/page": [
+      "static/chunks/webpack-bbf38ab73833ad8f.js",
+      "static/chunks/fd9d1056-7e3ed040e4ba57fc.js",
+      "static/chunks/23-2ee2816a45bb4507.js",
+      "static/chunks/main-app-e84bd76ebf7b8fbe.js",
+      "static/chunks/138-02aacf01e46614a3.js",
+      "static/chunks/648-590550bcf87a6894.js",
+      "static/chunks/app/pages/series/page-f0dfae2a60df462f.js"
+    ],
+    "/pages/watchfilms/page": [
+      "static/chunks/webpack-bbf38ab73833ad8f.js",
+      "static/chunks/fd9d1056-7e3ed040e4ba57fc.js",
+      "static/chunks/23-2ee2816a45bb4507.js",
+      "static/chunks/main-app-e84bd76ebf7b8fbe.js",
+      "static/chunks/138-02aacf01e46614a3.js",
+      "static/chunks/app/pages/watchfilms/page-7fdd61c8dbdf8ecd.js"
+    ],
+    "/pages/watchseries/page": [
+      "static/chunks/webpack-bbf38ab73833ad8f.js",
+      "static/chunks/fd9d1056-7e3ed040e4ba57fc.js",
+      "static/chunks/23-2ee2816a45bb4507.js",
+      "static/chunks/main-app-e84bd76ebf7b8fbe.js",
+      "static/chunks/138-02aacf01e46614a3.js",
+      "static/chunks/app/pages/watchseries/page-bc161722b38a15ba.js"
+    ]
+  }
+}
